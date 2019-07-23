@@ -1,5 +1,0 @@
-lz\controller\UserController.class
-lz\mapper\UserMapper.class
-lz\ProducerApplication.class
-lz\service\UserService.class
-lz\service\impl\UserServiceImpl.class
